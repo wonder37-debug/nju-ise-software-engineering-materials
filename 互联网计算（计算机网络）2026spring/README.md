@@ -4,7 +4,7 @@
 
 ---
 
-## 📘 内容说明 / Course Description
+## 📘 内容说明 / Content Description
 
 - 本资料基于课程课件与往年习题课资料，整理了学习笔记与作业答案。  
 - 对往年提供的 **习题课 PDF** 做了部分勘误，但不保证完全正确（best effort...）。  
